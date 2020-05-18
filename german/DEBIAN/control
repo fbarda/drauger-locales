@@ -1,0 +1,11 @@
+Package: drauger-locale-german
+Version: 0.0.1
+Maintainer: Thomas Castleman <contact@draugeros.org> - German Translation: Thorsten Tiefenbach <my@cock.email>
+Section: localization
+Homepage: https://github.com/drauger-os-development/drauger-locales
+Architecture: all
+Priority: optional
+Description: German Locale Files for Drauger OS Apps
+ Use Drauger OS Apps in your native langauge
+ .
+ This package is for the german Locale.
