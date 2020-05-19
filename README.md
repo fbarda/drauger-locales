@@ -5,9 +5,8 @@ If you wish to add a translation to Drauger OS, please make a branch, or fork th
 
 Afterwards, please follow the template in order to ensure the translations are able to be used by our software.
 
-- 
 
-# drauger-locales
+# drauger-locales-de_DE
 Übersetzungen für Drauger OS
 
 Wenn du gerne helfen möchtest, Drauger OS zu übersetzen, bitte erstelle ein Branch in deiner Sprache (z.B. dev-Sprache) und erstelle einen Ordner in der Sprache, in der du arbeitest - sofern er noch nicht existiert.
