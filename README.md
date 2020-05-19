@@ -10,6 +10,6 @@ Afterwards, please follow the template in order to ensure the translations are a
 # drauger-locales
 Übersetzungen für Drauger OS
 
-Wenn du gerne helfen möchtest, Drauger OS zu übersetzen, bitte erstelle ein Branch in deiner Sprache (z.B. dev-Sprache), erstelle einen Ordner in der Sprache, in der du arbeitest - sofern er noch nicht existiert.
+Wenn du gerne helfen möchtest, Drauger OS zu übersetzen, bitte erstelle ein Branch in deiner Sprache (z.B. dev-Sprache) und erstelle einen Ordner in der Sprache, in der du arbeitest - sofern er noch nicht existiert.
 
-Danach folge bitte den Anweisungen im Template Ordner um sicher zu stellen, dass alle Übersetzungen von der Software genutzt werden können.
+Danach folge bitte den Anweisungen im Template Ordner, um sicher zu stellen, dass alle Übersetzungen von unserer Software genutzt werden können.
