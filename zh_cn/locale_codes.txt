@@ -1,6 +1,6 @@
 bokmal		nb_NO
 catalan		ca_ES
-chinese     zh-ZH
+chinese     zh_ZH
 croatian	hr_HR
 czech		cs_CZ
 danish		da_DK

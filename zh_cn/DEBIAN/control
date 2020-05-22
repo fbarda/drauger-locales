@@ -1,6 +1,6 @@
 Package: drauger-locale-chinese-simplified
 Version: 0.0.1
-Maintainer: Amy Chen <seu-chensiyuan@outlook.com> (You may, optionally, replace this with your name and email if you wish)
+Maintainer: Amy Chen <seu-chensiyuan@outlook.com>
 Section: localization
 Homepage: https://github.com/drauger-os-development/drauger-locales
 Architecture: all
