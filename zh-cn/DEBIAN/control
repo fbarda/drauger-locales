@@ -1,0 +1,11 @@
+Package: drauger-locale-chinese-simplified
+Version: 0.0.1
+Maintainer: Amy Chen <seu-chensiyuan@outlook.com> (You may, optionally, replace this with your name and email if you wish)
+Section: localization
+Homepage: https://github.com/drauger-os-development/drauger-locales
+Architecture: all
+Priority: optional
+Description: Simplified Chinese Locale Files for Drauger OS Apps
+ Use Drauger OS Apps in your native langauge
+ .
+ This package is for the Simplified Locale.
