@@ -1,4 +1,4 @@
-Package: drauger-locale-chinese-simplified
+Package: drauger-locale-chinese-zh-cn
 Version: 0.0.1
 Maintainer: Amy Chen <seu-chensiyuan@outlook.com>
 Section: localization
@@ -8,4 +8,4 @@ Priority: optional
 Description: Simplified Chinese Locale Files for Drauger OS Apps
  Use Drauger OS Apps in your native langauge
  .
- This package is for the Simplified Locale.
+ This package is for the Chinese implified Locale.
