@@ -1,0 +1,9 @@
+Sonraki çevirmenin, daha önce yapılan çevirileri gözden geçirebilmesi için orjinalini yorum içine al ve altına çevir.
+
+Örnek:
+Orijinal Metin
+    test "sample text"
+
+Çeviri
+    #test "sample text"
+    test "örnek yazı"

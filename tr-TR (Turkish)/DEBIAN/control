@@ -1,0 +1,11 @@
+Package: drauger-locale-tr
+Version: 0.0.2
+Maintainer: Thomas Castleman <contact@draugeros.org>, Arda Aydın <arda.aydin@operationsilkscarf.com>
+Section: localization
+Homepage: https://github.com/drauger-os-development/drauger-locales
+Architecture: all
+Priority: optional
+Description: Turkish Locale Files for Drauger OS Apps
+ Use Drauger OS Apps in your native langauge!
+ .
+ This package is for the tr-TR Locale.
